@@ -4,8 +4,6 @@ description: Lecture notes about the MHD Theory of Fusion Systems.
 file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/09aecbe3daf1cf4bb8edac677921746f_lecture18.pdf
 file_size: 253373
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

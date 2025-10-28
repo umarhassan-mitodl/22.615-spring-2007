@@ -4,8 +4,6 @@ description: Lecture notes about the flux conserving tokamak.
 file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/6d75ed1f1d1bcebe58cf038183f3cc0b_lecture11.pdf
 file_size: 160358
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

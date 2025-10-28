@@ -4,8 +4,6 @@ description: Final Exam solutions from 2003.
 file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/1e22346da986078fd6972bec88ddce50_2003_exam_sol.pdf
 file_size: 165735
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
