@@ -38,7 +38,6 @@
     "website": "22-615-mhd-theory-of-fusion-systems-spring-2007"
   },
   "course_title": "MHD Theory of Fusion Systems",
-  "hide_download": true,
   "course_description": "This course discusses MHD equilibria in cylindrical, toroidal, and noncircular tokamaks. It covers derivation of the basic MHD model from the Boltzmann equation, use of MHD equilibrium theory in poloidal field design, MHD stability theory including the Energy Principle, interchange instability, ballooning modes, second region of stability, and external kink modes. Emphasis is on discovering configurations capable of achieving good confinement at high beta.\n",
   "department_numbers": [
     "22"
@@ -49,7 +48,6 @@
     "content": "7f964319-a1c6-4db1-bb5a-843b913613d0",
     "website": "22-615-mhd-theory-of-fusion-systems-spring-2007"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Exams",
     "Lecture Notes",
